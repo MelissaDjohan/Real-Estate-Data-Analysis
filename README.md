@@ -1,4 +1,5 @@
 # Real-Estate-Data-Analysis
+![live work play](Images/live-work-play-image-01.jpg)
 Times are changing — and at a much faster pace than ever have before.
 
 PyConstruction Inc., a burgeoning construction company based out of New York is specializing in building "live work and play" communtnities. In their most recent efforts, 
