@@ -1,8 +1,9 @@
 # Real-Estate-Data-Analysis
+![live work play](Images/live-work-play-image-01.jpg)
+Times are changing — and at a much faster pace than ever have before.
 
-Description for Project:
+PyConstruction Inc., a burgeoning construction company based out of New York is specializing in building "live work and play" communtnities. In their most recent efforts, 
+they've started tackling first part of the paradigm "live" by compiling real estate data from cities to find out what Americans like the most when it comes to living 
+and how much are they willing to pay.
 
-We would like to know what causes the real estate value to go up or down.
-Does commercial real estate value affect the residential real estate value?
-Are real estate values and residential real estate values comparable?
-What are other factors of real estate value?
+Our objective is to analyze the data and assist PyConstruction Inc. in coming up with a good plan.
