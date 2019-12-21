@@ -7,3 +7,11 @@ they've started tackling first part of the paradigm "live" by compiling real est
 and how much are they willing to pay.
 
 Our objective is to analyze the data and assist PyConstruction Inc. in coming up with a good plan.
+
+
+### Authors 
+Limei Hou
+
+Indira Poovambur
+
+Melissa Djohan
